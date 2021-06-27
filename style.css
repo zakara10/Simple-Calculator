@@ -1,41 +1,40 @@
-.container{
+.container {
     text-align: center;
     margin-top: 20px;
 }
 
-table{
-    margin:auto;
+table {
+    margin: auto;
 }
 
-input{
+input {
     font-size: 40px;
     width: 285px;
     height: 70px;
     border-radius: 4px;
     text-align: right;
-
 }
 
-button{
+button {
     font-size: 23px;
     background-color: aqua;
     width: 70px;
     height: 70px;
     border-radius: 10px;
+    background-color: #545353;
 }
 
-h1{
+h1 {
     font-family: sans-serif;
     color: darkslategrey;
     font-weight: 500;
     font-stretch: extra-condensed;
-    font-style:normal;
+    font-style: normal;
 }
 
-.calculator{
+.calculator {
     display: inline-block;
     padding: 10px;
-    background-color: darkslategrey;
+    background-color: rgba(0, 0, 0, 0.82);
     border-radius: 20px;
 }
-
