@@ -26,6 +26,6 @@ for (let item of buttons) {
             screen.value = screenValue;
         }
     }
-)
+    )
 }
 
